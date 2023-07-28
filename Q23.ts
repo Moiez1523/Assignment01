@@ -1,0 +1,32 @@
+let id = 1;
+console.log("is id =='1'? I predict true");
+console.log(id == 1);
+let car = "Honda";
+console.log("is Car =='Honda'? I predict true");
+console.log(car == "Honda");
+let Name = "Ahmad";
+console.log("is id =='Ahmad'? I predict true");
+console.log(Name == "Ahmad");
+let City = "Lahore";
+console.log("is City =='Lahore'? I predict true");
+console.log(City == "Lahore");
+let Flower = "Jasmin";
+console.log("is Flower =='Jasmin'? I predict true");
+console.log(Flower == "Jasmin");
+
+// False Statements...
+let Country = "Turkey";
+console.log("is Country =='Turkey'? I predict False");
+console.log(Country == "India");
+let salary = 150000;
+console.log("is salary =='300000'? I predict False");
+console.log(salary == 300000);
+let mobile = "Iphone11";
+console.log("is mobile =='Samsung'? I predict False");
+console.log(mobile == "Samsung");
+let bike = "Suzuki";
+console.log("is bike =='Honda'? I predict False");
+console.log(bike == "Honda");
+let weight = 60;
+console.log("is weight =='78'? I predict False");
+console.log(weight == 78);
